@@ -1,0 +1,18 @@
+body {
+  display: inline-block;
+}
+
+h4 {
+  font-size: 60px;
+  color: white;
+  margin: 0px;
+}
+
+#pi_estimation {
+  width: 590px;
+  height: 100px;
+  background-color: rgb(40, 40, 40);
+  padding-left: 10px;
+  margin-bottom: 5px;
+
+}
